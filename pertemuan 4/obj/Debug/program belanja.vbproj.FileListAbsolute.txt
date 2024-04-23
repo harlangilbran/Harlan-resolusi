@@ -1,0 +1,12 @@
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan 4\pertemuan 4\bin\Debug\pertemuan 4.exe.config
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan 4\pertemuan 4\obj\Debug\pertemuan 4.exe
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan 4\pertemuan 4\obj\Debug\pertemuan 4.xml
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\pertemuan 4\pertemuan 4\obj\Debug\pertemuan 4.pdb
+C:\Users\harla\Documents\my project vb\pertemuan 4\pertemuan 4\bin\Debug\pertemuan 4.exe.config
+C:\Users\harla\Documents\my project vb\pertemuan 4\pertemuan 4\obj\Debug\pertemuan 4.exe
+C:\Users\harla\Documents\my project vb\pertemuan 4\pertemuan 4\obj\Debug\pertemuan 4.xml
+C:\Users\harla\Documents\my project vb\pertemuan 4\pertemuan 4\obj\Debug\pertemuan 4.pdb
+C:\Users\harla\Documents\my project vb\program belanja simpel\pertemuan 4\bin\Debug\pertemuan 4.exe.config
+C:\Users\harla\Documents\my project vb\program belanja simpel\pertemuan 4\obj\Debug\pertemuan 4.exe
+C:\Users\harla\Documents\my project vb\program belanja simpel\pertemuan 4\obj\Debug\pertemuan 4.xml
+C:\Users\harla\Documents\my project vb\program belanja simpel\pertemuan 4\obj\Debug\pertemuan 4.pdb
